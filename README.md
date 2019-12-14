@@ -1,7 +1,7 @@
 # Depth Estimation in Nighttime using Stereo-Consistent Cyclic Translations, arXiv'19
 PyTorch code for the paper - Depth Estimation in Nighttime using Stereo-Consistent Cyclic Translations, arXiv'19
 
-Please consider citing the paper if you find this code useful:
+Please cite the paper if you find this code useful:
 ```
 @article{sharma2019depth,
   title={Depth Estimation in Nighttime using Stereo-Consistent Cyclic Translations},
