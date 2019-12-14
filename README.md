@@ -13,10 +13,7 @@ Please cite the paper if you find this code useful:
 ### Requirements
 The code is tested on Python 3.7, PyTorch 1.1.0, TorchVision 0.3.0. 
 
-### Training
-To be released soon. 
-
-### Testing
+### Prediction
 To generate sample results on the Oxford RobotCar dataset, run for e.g. 
 ```
 $ python predict.py --imgname 00701 --datapath ./sampledata/ --ckptpath ./pretrained_ckpts/
@@ -24,11 +21,12 @@ $ python predict.py --imgname 00701 --datapath ./sampledata/ --ckptpath ./pretra
 Pre-trained checkpoints for the generators and stereo networks are provided for generating the disparity results. 
 
 ### Sample Results
+The results shown below are in the following order: Left image, Right image, Disaprity from PSMNet, and Disparity from this method.  
 Image: 00094 (Poorly-Lit)
-![sample_0001_18](images/0001_18_f.png)
+![00094](images/00094_f.png)
 
 Image: 00701 (Well-Lit)
-![sample_0006_06](images/0006_06_f.png)
+![00701](images/00701_f.png)
   
 ### Acknowledgements 
-We are thankful to the authors of [PSMNet](https://github.com/JiaRenChang/PSMNet) and [ToDayGAN](https://github.com/AAnoosheh/ToDayGAN) for making their code public. 
+Thanks to the authors of [PSMNet](https://github.com/JiaRenChang/PSMNet) and [ToDayGAN](https://github.com/AAnoosheh/ToDayGAN) for making their code public. 
