@@ -36,7 +36,7 @@ $  python train.py --name run1 \
 ```
 Note that, the sample training script above uses data meant only for illustration purposes. For actual training, validation and test data, please download the [The Oxford RobotCar](https://robotcar-dataset.robots.ox.ac.uk/datasets/) dataset, particularly nightime clips taken under varying illumination conditions (like 2014/11/14-night and 2014/12/10-night) and daytime clips taken under overcast conditions (like 2014/07/14-overcast). In the paper, we have used about 9000 randomly sampled stereo pairs from the daytime data, and about 8900 randomly sampled stereo pairs from the nighttime data for training. An additional 1000 nighttime stereo pairs were used for validation, and about 250 more for testing. 
 
-If you have any queries related to processing of the Oxford dataset (like for e.g., how to create the raw sparse disparity ground-truth), feel free to contact me at aashish[DOT]sharma[AT]u[DOT]>nus[DOT]edu. 
+If you have any queries related to processing of the Oxford dataset (like for e.g., how to create the raw sparse disparity ground-truth), feel free to contact me at aashish[DOT]sharma[AT]u[DOT]nus[DOT]edu. 
 
 ### Prediction
 To generate sample results on the Oxford RobotCar dataset, run for e.g. 
