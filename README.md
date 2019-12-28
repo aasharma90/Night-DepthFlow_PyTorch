@@ -39,7 +39,7 @@ Note that, the sample training script above uses data meant only for illustratio
 If you have any queries related to processing of the Oxford dataset (like for e.g., how to create the raw sparse disparity ground-truth), feel free to contact me at aashish[DOT]sharma[AT]u[DOT]nus[DOT]edu. 
 
 ### Prediction
-To generate sample results on the Oxford RobotCar dataset, run for e.g. 
+To generate sample results on the Oxford dataset, run for e.g. 
 ```
 $ python predict.py --imgname 00701 --datapath ./sampledata/ --ckptpath ./pretrained_ckpts/
 ```
