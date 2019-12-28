@@ -1,0 +1,3 @@
+./sampledata/nighttime/left/00001.png
+./sampledata/nighttime/right/00001.png
+./sampledata/nighttime/disp_GT/00001.png 

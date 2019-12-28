@@ -1,0 +1,4 @@
+./sampledata/nighttime/left/00701.png
+./sampledata/nighttime/right/00701.png
+./sampledata/nighttime/left/00094.png
+./sampledata/nighttime/right/00094.png

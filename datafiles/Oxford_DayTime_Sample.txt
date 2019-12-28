@@ -1,0 +1,4 @@
+./sampledata/daytime/left/00010.png
+./sampledata/daytime/right/00010.png     
+./sampledata/daytime/left/00050.png
+./sampledata/daytime/right/00050.png     
