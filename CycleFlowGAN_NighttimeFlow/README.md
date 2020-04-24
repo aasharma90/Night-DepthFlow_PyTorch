@@ -37,8 +37,6 @@ $  python train.py --name run1 \
 ```
 Note that, the sample training script above uses data meant only for illustration purposes. For actual trainiing and test data, please download the [The Oxford RobotCar](https://robotcar-dataset.robots.ox.ac.uk/datasets/) dataset, particularly nightime clips taken under varying illumination conditions (like 2014/11/14-night and 2014/12/10-night) and daytime clips taken under overcast conditions (like 2014/07/14-overcast). For our evaluation, we have used about 9000 randomly sampled images from the daytime data, and about 8900 randomly sampled images from the nighttime data for training. The code does not support validation at the moment, given that there are no flow ground-truths available from the Oxford dataset.
 
-If you have any queries related to processing of the Oxford dataset, feel free to reach out to me at aashish[DOT]sharma[AT]u[DOT]nus[DOT]edu. 
-
 ### Prediction
 For sample testing, run for e.g. 
 ```
@@ -47,8 +45,28 @@ $ python predict.py --imglist ./datafiles/sample_nighttime_data1_01.txt --result
 Pre-trained checkpoints for the generators and flow networks (trained on the Oxford dataset) are provided for generating the flow results. The results directory will contain both the `.flo` and visualized flow results. 
 
 ### Sample Results
-The results re in the following order: Image-1, Flow Result (PWCNet), and Flow Result (Proposed). 
+The results shown below in the following order: Image-1, Flow Result (PWCNet), and Flow Result (Proposed). 
 
-  
+Image: `./sample/nighttime_data1/0123.png`
+![sample/nighttime_data1/0123](results/nighttime_Data1/result_4.jpg)
+
+Image: `./sample/nighttime_data1/0127.png`
+![sample/nighttime_data1/0127](results/nighttime_Data1/result_8.jpg)
+
+Image: `./sample/nighttime_data1/0137.png`
+![sample/nighttime_data1/0137](results/nighttime_Data1/result_18.jpg)
+
+Image: `./sample/nighttime_data1/0141.png`
+![sample/nighttime_data1/0141](results/nighttime_Data1/result_22.jpg)
+
+Image: `./sample/nighttime_data2/0059.png`
+![sample/nighttime_data2/0059](results/nighttime_Data1/result_15.jpg)
+
+Image: `./sample/nighttime_data2/0063.png`
+![sample/nighttime_data2/0063](results/nighttime_Data1/result_19.jpg)
+
+Image: `./sample/nighttime_data2/0065.png`
+![sample/nighttime_data2/0065](results/nighttime_Data1/result_21.jpg)
+
 ### Acknowledgements 
 Thanks to the authors of [PWCNet](https://github.com/NVlabs/PWC-Net/tree/master/PyTorch) and [ToDayGAN](https://github.com/AAnoosheh/ToDayGAN) for making their code public. 
