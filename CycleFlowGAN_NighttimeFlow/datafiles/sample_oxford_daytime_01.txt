@@ -1,0 +1,10 @@
+./sample/oxford_daytime/00001.png ./sample/oxford_daytime/00002.png 
+./sample/oxford_daytime/00002.png ./sample/oxford_daytime/00003.png
+./sample/oxford_daytime/00003.png ./sample/oxford_daytime/00004.png
+./sample/oxford_daytime/00004.png ./sample/oxford_daytime/00005.png
+./sample/oxford_daytime/00005.png ./sample/oxford_daytime/00006.png
+./sample/oxford_daytime/00006.png ./sample/oxford_daytime/00007.png
+./sample/oxford_daytime/00007.png ./sample/oxford_daytime/00008.png
+./sample/oxford_daytime/00008.png ./sample/oxford_daytime/00009.png
+./sample/oxford_daytime/00009.png ./sample/oxford_daytime/00010.png
+./sample/oxford_daytime/00010.png ./sample/oxford_daytime/00011.png

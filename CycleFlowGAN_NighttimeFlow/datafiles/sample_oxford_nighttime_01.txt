@@ -1,0 +1,10 @@
+./sample/oxford_nighttime/00001.png ./sample/oxford_nighttime/00002.png 
+./sample/oxford_nighttime/00002.png ./sample/oxford_nighttime/00003.png
+./sample/oxford_nighttime/00003.png ./sample/oxford_nighttime/00004.png
+./sample/oxford_nighttime/00004.png ./sample/oxford_nighttime/00005.png
+./sample/oxford_nighttime/00005.png ./sample/oxford_nighttime/00006.png
+./sample/oxford_nighttime/00006.png ./sample/oxford_nighttime/00007.png
+./sample/oxford_nighttime/00007.png ./sample/oxford_nighttime/00008.png
+./sample/oxford_nighttime/00008.png ./sample/oxford_nighttime/00009.png
+./sample/oxford_nighttime/00009.png ./sample/oxford_nighttime/00010.png
+./sample/oxford_nighttime/00010.png ./sample/oxford_nighttime/00011.png

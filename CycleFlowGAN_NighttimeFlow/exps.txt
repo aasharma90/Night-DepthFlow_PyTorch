@@ -1,0 +1,3 @@
+1) temp3 is the checkpoint for local data.
+2) temp3Oxford is the checkpoint for Oxford data.
+3) temp_noflowrec is w/o flow reconstruction, so basically CycleGAN. 
