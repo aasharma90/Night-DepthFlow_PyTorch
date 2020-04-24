@@ -1,5 +1,7 @@
 # Depth Estimation in Nighttime using Stereo-Consistent Cyclic Translations, arXiv'19 (for Optical Flow)
-PyTorch code for nighttime flow application of the [paper](https://arxiv.org/abs/1909.13701) - Depth Estimation in Nighttime using Stereo-Consistent Cyclic Translations, arXiv'19, Aashish Sharma, Robby T. Tan, and Loong-Fah Cheong. For original depth from stereo code, please refer [here](https://github.com/aasharma90/NighttimeDepthandFlow/tree/master/CycleStereoGAN_NighttimeDepth)
+PyTorch code for the nighttime flow application of the [paper](https://arxiv.org/abs/1909.13701) - Depth Estimation in Nighttime using Stereo-Consistent Cyclic Translations, arXiv'19, Aashish Sharma, Robby T. Tan, and Loong-Fah Cheong. 
+
+For original nighttime depth from stereo code, please refer [here](https://github.com/aasharma90/NighttimeDepthandFlow/tree/master/CycleStereoGAN_NighttimeDepth)
 
 Please cite the paper if you find this code useful:
 ```
