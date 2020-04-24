@@ -48,25 +48,25 @@ Pre-trained checkpoints for the generators and flow networks (trained on the Oxf
 The results shown below in the following order: Image-1, Flow Result (PWCNet), and Flow Result (Proposed). 
 
 Image: `./sample/nighttime_data1/0123.png`
-![sample/nighttime_data1/0123](results/nighttime_Data1/result_4.jpg)
+![sample/nighttime_data1/0123](results/nighttime_data1/result_4.jpg)
 
 Image: `./sample/nighttime_data1/0127.png`
-![sample/nighttime_data1/0127](results/nighttime_Data1/result_8.jpg)
+![sample/nighttime_data1/0127](results/nighttime_data1/result_8.jpg)
 
 Image: `./sample/nighttime_data1/0137.png`
-![sample/nighttime_data1/0137](results/nighttime_Data1/result_18.jpg)
+![sample/nighttime_data1/0137](results/nighttime_data1/result_18.jpg)
 
 Image: `./sample/nighttime_data1/0141.png`
-![sample/nighttime_data1/0141](results/nighttime_Data1/result_22.jpg)
+![sample/nighttime_data1/0141](results/nighttime_data1/result_22.jpg)
 
 Image: `./sample/nighttime_data2/0059.png`
-![sample/nighttime_data2/0059](results/nighttime_Data1/result_15.jpg)
+![sample/nighttime_data2/0059](results/nighttime_data2/result_15.jpg)
 
 Image: `./sample/nighttime_data2/0063.png`
-![sample/nighttime_data2/0063](results/nighttime_Data1/result_19.jpg)
+![sample/nighttime_data2/0063](results/nighttime_data2/result_19.jpg)
 
 Image: `./sample/nighttime_data2/0065.png`
-![sample/nighttime_data2/0065](results/nighttime_Data1/result_21.jpg)
+![sample/nighttime_data2/0065](results/nighttime_data2/result_21.jpg)
 
 ### Acknowledgements 
 Thanks to the authors of [PWCNet](https://github.com/NVlabs/PWC-Net/tree/master/PyTorch) and [ToDayGAN](https://github.com/AAnoosheh/ToDayGAN) for making their code public. 
